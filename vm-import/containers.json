@@ -1,0 +1,12 @@
+{
+  "Description": "Original windows 2008",
+  "DiskContainers": [
+    {
+      "Description": "Original windows 2008",
+      "UserBucket": {
+          "S3Bucket": "ntd-image-bucket",
+          "S3Key": "Windows_Server_2008_R2_x64-disk1_v2.vmdk"
+      }
+    }
+  ]
+}
